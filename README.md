@@ -1,6 +1,6 @@
 # Daisy Jewelry Store
 Welcome to the Daisy Jewelry Store repository! This project showcases a web-based jewelry store with an elegant and user-friendly interface.
-
+![Diasy](Screenshot%202024-07-14%20162246.png)
 # Features
 ### Navigation Bar: Includes links to Home, Products, About, Review, and Services pages.
 ### Product Filters: Allows users to filter products by category and sort them by name or price.
@@ -10,6 +10,8 @@ HTML5
 CSS3
 JavaScript
 Font Awesome for icons
+![Diasy](Screenshot%202024-07-14%20162228.png)
+
 # Setup
 <pre>
 git clone https://github.com/ayamahmoud11/Jewelries.git
