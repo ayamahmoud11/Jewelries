@@ -6,10 +6,10 @@ Welcome to the Daisy Jewelry Store repository! This project showcases a web-base
 ### Product Filters: Allows users to filter products by category and sort them by name or price.
 ### Icons: Quick access to the favorites, shopping cart, and user profile pages.
 ### Technologies Used
-HTML5
-CSS3
-JavaScript
-Font Awesome for icons
+#### HTML5
+#### CSS3
+#### JavaScript
+#### Font Awesome for icons
 ![Diasy](Screenshot%202024-07-14%20162228.png)
 
 # Setup
